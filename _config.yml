@@ -14,8 +14,8 @@ owner: Alex Guardado
   bio:            "Your bio goes here. It shouldn't be super long but a good sentence or two should suffice."
   email:          alexjguardado@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:         
-  facebook:       
+  twitter: https://twitter.com/alexjguardado 
+  facebook: https://www.facebook.com/alex.j.guardado     
   github: https://github.com/funkyaxel       
   stackexchange:  
   linkedin: https://www.linkedin.com/in/alex-guardado-30291999       
